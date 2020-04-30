@@ -1,1 +1,1 @@
-{"trim": "", "base": "052c7e8", "trimbase": "", "parent": "debian/eloquent/px4_msgs", "previous": "6166a2c"}
+{"base": "b7bc495", "parent": "debian/verystable/px4_msgs", "previous": "634e3a1", "trim": "", "trimbase": ""}
